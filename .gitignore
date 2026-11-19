@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# Compiled files and logs
+*.class
+*.log
+
+# IDE files
+.idea/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
